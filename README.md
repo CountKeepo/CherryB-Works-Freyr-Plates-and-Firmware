@@ -5,7 +5,10 @@ CherryB Works seems to have gone under, so in order to make sure the Freyr TKL c
 
 ## Plate files
 
-The community has done multiple plate files including half and full plates in both ISO and ANSI formats. The "Plates" folder has both of them. 
+The Freyr TKL uses what's known as the Jane V1 plate top mount, which means that Jane V1 plates fit on it as well.
+
+The community has also done multiple plate files including half and full plates in both ISO and ANSI formats. The "Plates" folder has both of these.
+The ISO files currently only have .DXF files, so no FR4 option unless someone wants to do it. If someone does end up doing the Gerber files for them, please let me know!
 
 ## PCB
 
