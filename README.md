@@ -26,3 +26,5 @@ In case you want to use VIA (preferred alternative):
 2/ Put your keyboard's PCB into reset/bootloader mode and run QMK Toolbox ( you can enter reset/bldmode by shorting 2 pins in the middle of the 10 pins debug pinout behind the PCB - they are near to arrow keys )
 3/ Click on "Clear EEPROM" inside QMK Toolbox, and then browse to the.hex file that you've downloaded, flash it
 4/ Re-plug the keyboard if nessesary, have fun.
+
+I also added the original via_config.json file for further use in Vial or whatever.
