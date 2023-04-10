@@ -1,7 +1,7 @@
 # CherryB Works Freyr TKL files
 ![image](https://user-images.githubusercontent.com/64993772/230959743-d857d0b2-b724-40c8-876d-46bd66a202b4.png)
 
-CherryB Works seems to have gone under, so in order to make sure the Freyr TKL can live I gathered all files related to it here.
+CherryB Works might have gone under, so in order to make sure the Freyr TKL can live I gathered all files related to it here.
 
 ## Plate files
 
