@@ -33,3 +33,18 @@ In case you want to use VIA (preferred alternative):
 4/ Re-plug the keyboard if nessesary, have fun.
 
 I also added the original via_config.json file for further use in Vial or whatever.
+
+## Pictures from the original GeekHack thread
+https://geekhack.org/index.php?topic=109124.0
+
+Dimensions
+![image](https://user-images.githubusercontent.com/64993772/231069383-c0624fc1-a59e-422d-9d4c-ae32cf6abfe1.png)
+
+Original CB87 PCB layout
+![image](https://user-images.githubusercontent.com/64993772/231069405-f2730426-282a-4896-960d-9e824819d5bb.png)
+
+![image](https://user-images.githubusercontent.com/64993772/231069440-89d630da-dcbb-4cd6-94d7-5f36cb3e39ac.png)
+
+![image](https://user-images.githubusercontent.com/64993772/231069508-c6b11505-1f68-4c73-8880-87c36c76f421.png)
+
+![image](https://user-images.githubusercontent.com/64993772/231069660-de80f1c5-15ba-42ef-b5ec-456eca12dd2c.png)
